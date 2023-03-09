@@ -1,5 +1,5 @@
 {
-    "spider": "./0303fty.jar;md5;15963d2c360e6ecab89c962fc205a9b6",
+    "spider": "./0308fty.jar;md5;a636612fad3f047f7df1690f8b4cfde4",
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
     "sites": [
         {
@@ -11,16 +11,6 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1
-        },
-        {
-            "key": "csp_Alist1",
-            "name": "🅿Alist┃网盘",
-            "type": 3,
-            "api": "csp_AList",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./AList/alist.json"
         },
         {
             "key": "csp_Bili",
@@ -90,6 +80,15 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.bulei.cc"
+        },
+        {
+            "key": "csp_AppMr",
+            "name": "👻明明┃影视",
+            "type": 3,
+            "api": "csp_AppMr",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "csp_apple",
@@ -644,7 +643,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./Bili/高中课堂.json"
-        }       
+        }
     ],
     "parses": [
         {
@@ -805,8 +804,7 @@
         "芒 果 T V",
         "bilibili",
         "哔 哩",
-        "哔 哩 哔 哩",
-        "B站"
+        "哔 哩 哔 哩"
     ],
     "ijk": [
         {
