@@ -1,10 +1,10 @@
 {
-    "spider": "./0308fty.jar;md5;a636612fad3f047f7df1690f8b4cfde4",
+    "spider": "./0310fan.jar;md5;44e53034d351f191343ce96febbd4117",
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
-    "sites": [
+     "sites": [
         {
             "key": "js豆瓣",
-            "name": "豆瓣┃推荐首页",
+            "name": "豆瓣┃饭饭推荐首页",
             "type": 3,
             "api": "./js/drpy.min.js",
             "ext": "./js/drpy.js",
