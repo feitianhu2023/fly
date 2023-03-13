@@ -4,7 +4,7 @@
      "sites": [
       {
             "key": "js豆瓣",
-            "name": "豆瓣┃饭推荐首页",
+            "name": "豆瓣┃推荐首页",
             "type": 3,
             "api": "./js/drpy.min.js",
             "ext": "./js/drpy.js",
