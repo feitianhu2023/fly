@@ -4,5 +4,5 @@
 {"name":"at`sushi","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u"}
 ],
 "wallpaper":"https://liu.chuqiuyu.tk",
-"sites":[{"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":{"drives":[{"name":"pikpak","server":"http://flyforever.eu.org:5244"}]}}]
+"sites":[{"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":{"drives":[{"name":"pikpak","server":"https://2023.feitianhu2023.repl.co"}]}}]
 }
